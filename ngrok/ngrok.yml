@@ -1,0 +1,6 @@
+version: "2"
+authtoken: 2U87bUJp2LjTOJZRSSNZzUyA2FT_6e5izXKPZFtqTMDuN3M2d
+tunnels:
+  iot-api:
+    proto: http
+    addr: api:3005
